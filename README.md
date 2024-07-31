@@ -1,2 +1,2 @@
 # MLDB_AMIC
-Implementation for paper "Unsuperviseddomain adaptation withmulti-level distillation boost andadaptivemaskfor medical image segmentation".
+Implementation for paper "Unsuperviseddomain adaptation withmulti-level distillation boost andadaptivemaskfor medical image segmentation" will be published soon.
