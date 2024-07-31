@@ -1,2 +1,2 @@
 # MLDB_AMIC
-for MedIA public code
+Implementation for paper "Unsuperviseddomain adaptation withmulti-level distillation boost andadaptivemaskfor medical image segmentation".
