@@ -1,0 +1,15 @@
+data/
+__pycache__/
+save*/
+models*/
+*.txt
+*.png
+*.jpg
+inference*/
+*.log
+*.pth
+pre-trained/
+*.*/
+*.csv
+!requirements.txt
+*_*_*/
